@@ -33,3 +33,8 @@
 
 16. netstat -tulnp    
 
+
+
+             website for reference:- https://cloudkul.com/blog/how-to-set-up-sonarqube-on-aws-ubuntu-ec2/
+                
+             youtube link for reference:- https://www.youtube.com/watch?v=Ld4uZpR55FU
